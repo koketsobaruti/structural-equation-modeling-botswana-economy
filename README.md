@@ -1,14 +1,14 @@
-🧠 Structural Equation Modeling (SEM) Analysis of Botswana’s Economy
+#🧠 Structural Equation Modeling (SEM) Analysis of Botswana’s Economy
 
 This project demonstrates the application of Structural Equation Modeling (SEM) to explore the relationships between key social and governance indicators influencing national well-being. Using data from the World Happiness Report (2023), the analysis illustrates how SEM can be used to understand complex constructs—such as quality of life, democracy, and happiness—and their implications for economic decision-making in Botswana.
 
-📌 Project Overview
+##📌 Project Overview
 
 Botswana’s overreliance on diamonds has exposed a structural vulnerability in its economy. As the country pursues diversification through initiatives like the National Transformation Strategy (NTS) and the Botswana Economic Transformation Program (BETP), data-driven approaches are essential for informed policy and strategic planning.
 
 This notebook introduces SEM as a tool for modeling complex, interrelated variables that cannot be directly observed, offering a statistical foundation for understanding latent constructs that drive development outcomes.
 
-🎯 Objectives
+##🎯 Objectives
 
 To define and model latent constructs (e.g., quality of life) using SEM.
 
@@ -18,7 +18,7 @@ To evaluate model fit using indices like CFI, GFI, TLI, RMSEA, and Chi-square.
 
 To demonstrate how SEM can inform Botswana’s economic decision-making and diversification efforts.
 
-📊 Dataset Overview
+##📊 Dataset Overview
 
 Source: World Happiness Report (2023)
 
@@ -38,7 +38,7 @@ Healthy Life Expectancy
 
 Democracy Score (derived variable)
 
-🧩 Methodology
+##🧩 Methodology
 
 Model Definition: Establish covariances and variances between observed variables.
 
@@ -48,9 +48,9 @@ Model Evaluation: Assess fit using indices and interpret latent relationships.
 
 Interpretation: Draw policy and theoretical insights relevant to Botswana’s context.
 
-⚙️ Tools & Libraries
+##⚙️ Tools & Libraries
 
-Python 3.x
+Python 3.13
 
 pandas — data manipulation
 
@@ -60,7 +60,7 @@ semopy — structural equation modeling
 
 matplotlib & seaborn — visualization
 
-📈 Key Findings
+##📈 Key Findings
 
 CFI (0.964), GFI (0.960), and NFI (0.960) indicate strong model performance.
 
@@ -70,15 +70,14 @@ RMSEA (0.225) signals poor absolute fit, implying model improvement potential wi
 
 Despite these limitations, the model effectively demonstrates how SEM can reveal underlying social and economic relationships.
 
-💡 Policy Relevance
+##💡 Policy Relevance
 
 The findings underscore the potential of SEM as a robust analytical framework for policy formulation.
 By uncovering the hidden relationships between democracy, happiness, and quality of life, SEM can help Botswana’s policymakers and economists make more evidence-based, data-driven decisions in pursuit of sustainable growth.
 
-🧑🏽‍💻 Author
+##🧑🏽‍💻 Author
 
 Koketso Baruti
-Founder, Thrive Africa
 Researcher in Machine Learning, Data Science, and Economic Modelling
 
 📚 Citation
